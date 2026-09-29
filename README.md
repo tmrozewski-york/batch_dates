@@ -2,7 +2,7 @@ _updated for OJS 3.5_
 
 # Script for batch editing article publication dates to match issue publication dates in an Open Journal System (OJS) journal
 
-Python script developed for [York Digital Journals](https://www.library.yorku.ca/web/collections/discover-our-collections/york-digital-journals-3/). Uses the [REST API for OJS 3.5](https://docs.pkp.sfu.ca/dev/api/ojs/3.5).
+Python script developed for [York Digital Journals](https://dsi.library.yorku.ca/ydj/). Uses the [REST API for OJS 3.5](https://docs.pkp.sfu.ca/dev/api/ojs/3.5).
 
 This script was used to batch edit the publication dates of articles to match the publication dates of the issues in which they are published. It was developed for a born-print journal's archive that was ingested to OJS. The publication dates in OJS matched the ingest dates, not the original publication dates. We wanted to correct the publication dates before registering DOIs for the articles.
 
